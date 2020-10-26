@@ -24,4 +24,15 @@ https://ul.cdn946.net:8443/hls/liqi158i6t.m3u8?s=5JXXGrrM0WxZI5ArLH1NjA&e=160375
 #EXTINF:-1 tvg-chno="6",FOX
 
 https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=dPIu7CAAiuxmrSuwfB8jWg&e=1603755691
-# lista
+
+#EXTINF:-1 tvg-chno="7",Warner Bros
+
+https://ul.cdn946.net:8443/hls/rc9fntv.m3u8?s=zLo40NasuOBlM4LSRoWAWg&e=1603757615
+
+#EXTINF:-1 tvg-chno="8",America TV
+
+https://ul.cdn946.net:8443/hls/hfs25pgcjpj.m3u8?s=Afi5tDSaDn_ErZOuTK5eTw&e=1603757763
+
+#EXTINF:-1 tvg-chno="9",CINEMAX
+
+https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=AFpGAbjVyToBthDUfQKvog&e=1603758041
