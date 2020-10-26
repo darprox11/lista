@@ -60,15 +60,3 @@ s=Afi5tDSaDn_ErZOuTK5eTw&e=1603757763
 https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?
 
 s=AFpGAbjVyToBthDUfQKvog&e=1603758041
-
-#EXTINF:-1 tvg-chno="10",Fox Movies
-
-https://espare.tk/live/fox_movies_lat.m3u8?token=eFiMAQkLY5-
-
-fH4Ldbk0qWg&expires=1603758695
-
-#EXTINF:-1 tvg-chno="11",Fox Family
-
-https://espare.tk/live/fox_family_lat.m3u8?token=lBx8ql1dOpoJ7zN-
-
-6q7TvQ&expires=1603758902
